@@ -30,7 +30,7 @@ MiniSho: Simple Shopping List tidak mengumpulkan, menyimpan, mengirimkan, atau m
 
 Aplikasi ini dirancang untuk berfungsi sepenuhnya secara offline. Aplikasi itu sendiri tidak membuat koneksi internet dan tidak memerlukannya untuk fungsi utamanya. Aplikasi tidak berkomunikasi dengan server eksternal mana pun dan tidak mengirim informasi apa pun ke luar perangkat Anda — tidak ke pengembang, tidak ke pihak ketiga mana pun, dan tidak ke layanan cloud mana pun.
 
-**Pengecualian – Input Suara Opsional:** Aplikasi ini menyertakan fitur input suara opsional. Saat Anda memilih untuk menggunakannya (dengan mengetuk tombol mikrofon), audio yang Anda ucapkan diproses oleh Pengenal Ucapan bawaan Android, yang mungkin mengirimkan audio ke server Google. Aplikasi itu sendiri tidak menyimpan atau memproses data audio apa pun. Lihat Bagian 5 dan 6 untuk detailnya.
+**Pengecualian – Input Suara Opsional:** Aplikasi ini menyertakan fitur input suara opsional. Saat Anda memilih untuk menggunakannya (dengan menekan dan menahan tombol mikrofon), audio yang Anda ucapkan diproses oleh Pengenal Ucapan bawaan Android, yang mungkin mengirimkan audio ke server Google. Aplikasi itu sendiri tidak menyimpan atau memproses data audio apa pun. Lihat Bagian 5 dan 6 untuk detailnya.
 
 Satu-satunya data yang dibuat dan disimpan oleh Aplikasi adalah:
 

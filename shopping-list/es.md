@@ -30,7 +30,7 @@ MiniSho: Simple Shopping List no recopila, almacena, transmite ni comparte ning�
 
 La Aplicación está diseñada para funcionar completamente sin conexión. La Aplicación en sí misma no establece una conexión a Internet y no la requiere para sus funciones principales. No se comunica con ningún servidor externo y no envía información fuera de tu dispositivo — ni al desarrollador, ni a terceros, ni a ningún servicio en la nube.
 
-**Excepción – Entrada de voz opcional:** La Aplicación incluye una función de entrada de voz opcional. Cuando la utilizas (pulsando el botón de micrófono), tu audio es procesado por el reconocimiento de voz integrado de Android, que puede transmitir datos de audio a los servidores de Google. La Aplicación no almacena ni procesa ningún dato de audio. Consulta las secciones 5 y 6 para más detalles.
+**Excepción – Entrada de voz opcional:** La Aplicación incluye una función de entrada de voz opcional. Cuando la utilizas (manteniendo pulsado el botón de micrófono), tu audio es procesado por el reconocimiento de voz integrado de Android, que puede transmitir datos de audio a los servidores de Google. La Aplicación no almacena ni procesa ningún dato de audio. Consulta las secciones 5 y 6 para más detalles.
 
 Los únicos datos que la Aplicación crea y almacena son:
 

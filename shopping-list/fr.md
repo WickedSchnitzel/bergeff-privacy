@@ -30,7 +30,7 @@ MiniSho: Simple Shopping List ne collecte, ne stocke, ne transmet ni ne partage 
 
 L'Application est conçue pour fonctionner entièrement hors ligne. L'Application elle-même n'établit pas de connexion Internet et n'en requiert pas pour ses fonctionnalités principales. Elle ne communique avec aucun serveur externe et n'envoie aucune information en dehors de votre appareil — ni au développeur, ni à des tiers, ni à des services cloud.
 
-**Exception – Saisie vocale optionnelle :** L'Application inclut une fonction de saisie vocale optionnelle. Lorsque vous l'utilisez (en appuyant sur le bouton microphone), votre audio est traité par la reconnaissance vocale intégrée d'Android, qui peut transmettre des données audio aux serveurs de Google. L'Application elle-même ne stocke ni ne traite aucune donnée audio. Voir les sections 5 et 6 pour plus de détails.
+**Exception – Saisie vocale optionnelle :** L'Application inclut une fonction de saisie vocale optionnelle. Lorsque vous l'utilisez (en maintenant le bouton microphone enfoncé), votre audio est traité par la reconnaissance vocale intégrée d'Android, qui peut transmettre des données audio aux serveurs de Google. L'Application elle-même ne stocke ni ne traite aucune donnée audio. Voir les sections 5 et 6 pour plus de détails.
 
 Les seules données que l'Application crée et stocke sont :
 

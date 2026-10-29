@@ -30,7 +30,7 @@ O MiniSho: Simple Shopping List não coleta, armazena, transmite ou compartilha 
 
 O App foi projetado para funcionar totalmente offline. O App em si não estabelece conexão com a internet e não requer uma para sua funcionalidade principal. Ele não se comunica com nenhum servidor externo e não envia nenhuma informação para fora do seu dispositivo — nem para o desenvolvedor, nem para terceiros, nem para nenhum serviço em nuvem.
 
-**Exceção – Entrada de Voz Opcional:** O App inclui um recurso opcional de entrada de voz. Quando você opta por usá-lo (tocando no botão do microfone), seu áudio falado é processado pelo Reconhecedor de Fala integrado do Android, que pode transmitir o áudio para os servidores do Google. O App em si não armazena nem processa nenhum dado de áudio. Veja as Seções 5 e 6 para detalhes.
+**Exceção – Entrada de Voz Opcional:** O App inclui um recurso opcional de entrada de voz. Quando você opta por usá-lo (pressionando e segurando o botão do microfone), seu áudio falado é processado pelo Reconhecedor de Fala integrado do Android, que pode transmitir o áudio para os servidores do Google. O App em si não armazena nem processa nenhum dado de áudio. Veja as Seções 5 e 6 para detalhes.
 
 Os únicos dados que o App cria e armazena são:
 

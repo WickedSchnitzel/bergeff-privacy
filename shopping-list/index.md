@@ -30,7 +30,7 @@ MiniSho: Simple Shopping List does not collect, store, transmit, or share any pe
 
 The App is designed to function entirely offline. The App itself does not establish an internet connection and does not require one for its core functionality. It does not communicate with any external server and does not send any information outside of your device — not to the developer, not to any third party, and not to any cloud service.
 
-**Exception – Optional Voice Input:** The App includes an optional voice input feature. When you choose to use it (by tapping the microphone button), your spoken audio is processed by Android's built-in Speech Recognizer, which may transmit audio to Google's servers. The App itself does not store or process any audio data. See Sections 5 and 6 for details.
+**Exception – Optional Voice Input:** The App includes an optional voice input feature. When you choose to use it (by pressing and holding the microphone button), your spoken audio is processed by Android's built-in Speech Recognizer, which may transmit audio to Google's servers. The App itself does not store or process any audio data. See Sections 5 and 6 for details.
 
 The only data the App creates and stores are:
 

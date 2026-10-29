@@ -30,7 +30,7 @@ MiniSho: Simple Shopping List erfasst, speichert, übermittelt oder teilt keiner
 
 Die App ist so konzipiert, dass sie vollständig offline funktioniert. Die App selbst stellt keine Internetverbindung her und erfordert diese auch nicht für ihre Kernfunktionen. Sie kommuniziert nicht mit externen Servern und sendet keine Informationen außerhalb Ihres Geräts – weder an den Entwickler noch an Dritte oder Cloud-Dienste.
 
-**Ausnahme – Optionale Spracheingabe:** Die App enthält eine optionale Spracheingabefunktion. Wenn Sie diese nutzen (durch Antippen des Mikrofon-Buttons), wird Ihre Spracheingabe durch die integrierte Spracherkennung von Android verarbeitet, die Audio-Daten an Google-Server übermitteln kann. Die App selbst speichert oder verarbeitet keine Audio-Daten. Weitere Details finden Sie in den Abschnitten 5 und 6.
+**Ausnahme – Optionale Spracheingabe:** Die App enthält eine optionale Spracheingabefunktion. Wenn Sie diese nutzen (durch Gedrückthalten des Mikrofon-Buttons), wird Ihre Spracheingabe durch die integrierte Spracherkennung von Android verarbeitet, die Audio-Daten an Google-Server übermitteln kann. Die App selbst speichert oder verarbeitet keine Audio-Daten. Weitere Details finden Sie in den Abschnitten 5 und 6.
 
 Die einzigen Daten, die die App erstellt und speichert, sind:
 
